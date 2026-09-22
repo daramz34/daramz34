@@ -194,18 +194,3 @@ learn continuously
 > Building one system at a time. 🚀
 
 ```
-
-### One important thing
-
-I **wouldn't add GitHub stats yet**.
-
-The other guy's profile has sections like achievements, teaching, 200+ repos, infrastructure projects, etc. because those are genuinely part of his profile. Your strongest selling point right now is **the projects you've actually built and deployed**.
-
-Your profile should make someone think:
-
-> **"This person is a CS student who is seriously building backend systems."**
-
-That's a much stronger message than trying to make the README look massive.
-
-Also, I intentionally used **"Backend Developer"** instead of your current `"Backend Developer in Progress"` — your six projects + Voice Language Partner + internship experience make the latter unnecessarily undersell you.
-```
