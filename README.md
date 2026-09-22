@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Oluwadarasimi 👋
 
-<!--
-**daramz34/daramz34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Backend Developer building with Python, FastAPI & AI 🧑‍💻
 
-Here are some ideas to get you started:
+## `~/about`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student and backend developer focused on
+building practical systems with Python, FastAPI, PostgreSQL and AI.
+
+## `~/projects`
+
+### 🎙️ Voice Language Partner
+
+Real-time AI voice language practice platform.
+
+- AssemblyAI Voice Agents
+- FastAPI
+- PostgreSQL
+- Gemini
+- WebSockets
+- JWT authentication
