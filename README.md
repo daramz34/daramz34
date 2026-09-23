@@ -1,7 +1,3 @@
-Yep. Since the repo is created, let's make yours **clean, personal, and similar in structure to the example without pretending you're further along than you are**.
-
-Copy this whole thing into your `README.md`:
-
 ````md
 # Hi, I'm Oluwadarasimi 👋
 
